@@ -1,11 +1,14 @@
-# pryofishingpro-ko
-한국어 번역작업한 파일 업로드 합니다
+❇️ ╎ 플러그인 이름: PyroFishingPro
 
-파일만 번역이기에 미흡한 부분이 있을수도있습니다.
+❇️ ╎ 플러그인 버전: 4.8.28 
 
-#깃헙이나 디스코드로 수정요청 줄수 찾아서 문의주면 수정해서 업로드 진행하겠습니다.
+📶 ╎ 테스트 서버 버전: 1.19.4 
 
-디스코드 : 짱구#walletfairy
+♻️ ╎ 파일을 다운로드 해주셔서 감사합니다.
 
-깃헙 : https://github.com/mangchi57?tab=repositories
+플러그인 사이트
+
+https://www.spigotmc.org/resources/pyrofishingpro-1-14-x-1-20-x-1-fishing-plugin-new-tournament-rework.60729/
+
+
 
